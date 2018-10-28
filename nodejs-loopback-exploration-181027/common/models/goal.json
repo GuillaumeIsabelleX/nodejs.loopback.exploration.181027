@@ -1,0 +1,30 @@
+{
+  "name": "goal",
+  "plural": "goals",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "goaltext": {
+      "type": "string",
+      "required": true
+    },
+    "due": {
+      "type": "date"
+    },
+    "cr": {
+      "type": "string"
+    },
+    "actions": {
+      "type": [
+        "goal"
+      ]
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
