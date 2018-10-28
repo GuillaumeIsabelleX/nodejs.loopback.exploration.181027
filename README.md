@@ -15,3 +15,6 @@
 
 ### / API Reference / ng / directive components in ng / ngApp ###
 [ngApp](https://code.angularjs.org/snapshot/docs/api/ng/directive/ngApp)
+
+## IMB ##
+[Subscribed to IBM API](https://console.bluemix.net/apis/overview)
