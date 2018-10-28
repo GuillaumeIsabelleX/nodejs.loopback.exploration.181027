@@ -4,5 +4,5 @@
 
 # Resources
 * [Getting Started](https://loopback.io/getting-started/)
-[Add Route (using Express)](https://loopback.io/doc/en/lb3/Add-a-custom-Express-route.html)
+* [Add Route using Express](https://loopback.io/doc/en/lb3/Add-a-custom-Express-route.html)
 * 
